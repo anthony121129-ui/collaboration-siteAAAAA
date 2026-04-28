@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>程式設計</title>
+</head>
+<body>
+
+<nav>
+    <a href="index.html">首頁</a> |
+    <a href="resources.html">學習資源</a> |
+    <a href="projects.html">作品分享</a> |
+    <a href="links.html">相關連結</a>
+</nav>
+
+<hr>
+
+<h1>程式設計</h1>
+
+<img src="https://via.placeholder.com/400x200" alt="程式設計圖片">
+
+<p>
+程式設計是透過撰寫程式碼來解決問題的技術，
+常見語言包含 HTML、CSS、JavaScript 等，
+可應用於網頁開發與系統設計。
+</p>
+
+<p>
+外部學習網站：
+<a href="https://www.w3schools.com/" target="_blank">
+https://www.w3schools.com/
+</a>
+</p>
+
+</body>
+</html>

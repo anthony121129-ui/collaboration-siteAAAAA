@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>學生學習協作平台 - 首頁</title>
+</head>
+<body>
+
+<nav>
+    <a href="index.html">首頁</a> |
+    <a href="resources.html">學習資源</a> |
+    <a href="projects.html">作品分享</a> |
+    <a href="links.html">相關連結</a>
+</nav>
+
+<hr>
+
+<h1>學生學習協作平台</h1>
+
+<p><strong>座號：</strong>46</p>
+<p><strong>學號：</strong>413647131</p>
+<p><strong>姓名：</strong>余昭德</p>
+
+<p>
+本網站為學生自訂之學習協作平台，提供學習資源整理、子主題介紹、
+作品分享以及相關網站連結，作為課程作業展示與學習紀錄用途。
+</p>
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>相關連結</title>
+</head>
+<body>
+
+<nav>
+    <a href="index.html">首頁</a> |
+    <a href="resources.html">學習資源</a> |
+    <a href="projects.html">作品分享</a> |
+    <a href="links.html">相關連結</a>
+</nav>
+
+<hr>
+
+<h1>相關連結</h1>
+
+<img src="https://via.placeholder.com/400x200" alt="連結圖片">
+
+<ul>
+    <li>
+        <a href="https://developer.mozilla.org/" target="_blank">
+        https://developer.mozilla.org/
+        </a>
+    </li>
+    <li>
+        <a href="https://www.google.com/" target="_blank">
+        https://www.google.com/
+        </a>
+    </li>
+</ul>
+
+</body>
+</html>

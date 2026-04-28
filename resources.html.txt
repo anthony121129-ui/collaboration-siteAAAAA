@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>學習資源</title>
+</head>
+<body>
+
+<nav>
+    <a href="index.html">首頁</a> |
+    <a href="resources.html">學習資源</a> |
+    <a href="projects.html">作品分享</a> |
+    <a href="links.html">相關連結</a>
+</nav>
+
+<hr>
+
+<h1>學習資源</h1>
+
+<img src="https://via.placeholder.com/400x200" alt="學習資源圖片">
+
+<p>
+此頁面整理基礎資訊科技相關學習內容，包含程式設計與資料庫基礎，
+提供學生作為入門與延伸學習之參考。
+</p>
+
+<ul>
+    <li><a href="programming.html">程式設計</a></li>
+    <li><a href="database.html">資料庫</a></li>
+</ul>
+
+</body>
+</html>

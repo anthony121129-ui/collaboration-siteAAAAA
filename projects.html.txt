@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>作品分享</title>
+</head>
+<body>
+
+<nav>
+    <a href="index.html">首頁</a> |
+    <a href="resources.html">學習資源</a> |
+    <a href="projects.html">作品分享</a> |
+    <a href="links.html">相關連結</a>
+</nav>
+
+<hr>
+
+<h1>作品分享</h1>
+
+<img src="https://via.placeholder.com/400x200" alt="作品圖片">
+
+<p>
+此頁面展示個人於課程中完成的練習成果，
+透過實作網頁架構，加深對 HTML 基本語法的理解。
+</p>
+
+<p>
+<a href="index.html">返回首頁</a>
+</p>
+
+</body>
+</html>

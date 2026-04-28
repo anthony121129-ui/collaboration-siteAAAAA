@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>資料庫</title>
+</head>
+<body>
+
+<nav>
+    <a href="index.html">首頁</a> |
+    <a href="resources.html">學習資源</a> |
+    <a href="projects.html">作品分享</a> |
+    <a href="links.html">相關連結</a>
+</nav>
+
+<hr>
+
+<h1>資料庫</h1>
+
+<img src="https://via.placeholder.com/400x200" alt="資料庫圖片">
+
+<p>
+資料庫用於儲存與管理大量資料，
+透過 SQL 語法可進行資料新增、查詢、修改與刪除，
+廣泛應用於各類資訊系統。
+</p>
+
+<p>
+外部學習網站：
+<a href="https://www.mysql.com/" target="_blank">
+https://www.mysql.com/
+</a>
+</p>
+
+</body>
+</html>
